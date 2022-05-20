@@ -1,5 +1,5 @@
 import React, { FC } from 'react'
-import { Routes, Route, Link } from "react-router-dom"
+import { Routes, Route } from "react-router-dom"
 import AccordionApp from './components/accordion/AccordionApp'
 import DragNDrop from './components/dragEndDrop/DragNDrop'
 import Content from './components/modal/Content'

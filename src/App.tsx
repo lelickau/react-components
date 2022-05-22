@@ -22,7 +22,7 @@ const App: FC = () => {
 	<h3 className='title'>Динамическая пагинация</h3>
 	<a target="_blank" className="link__git" href="https://github.com/lelickau/component__collection/tree/main/react/scrollPagination">GitHub Code</a>
 	<ScrollPagination />
-		<>
+		</>
 	)
 }
 
